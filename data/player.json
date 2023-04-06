@@ -1,0 +1,50 @@
+{
+    "Name": "Red",
+
+    "Party": {
+        "Charmander": 5
+    },
+
+    "Badges": {
+        "Boulder": {
+            "Acquired": true,
+            "Leader": "Brock",
+            "Bonus": "Attack"
+        },
+        "Cascade": {
+            "Acquired": false,
+            "Leader": "Misty",
+            "Bonus": 30
+        },
+        "Thunder": {
+            "Acquired": true,
+            "Leader": "Lt. Surge",
+            "Bonus": "Defense"
+        },
+        "Rainbow": {
+            "Acquired": false,
+            "Leader": "Erika",
+            "Bonus": 50
+        },
+        "Soul": {
+            "Acquired": false,
+            "Leader": "Koga",
+            "Bonus": "Speed"
+        },
+        "Marsh": {
+            "Acquired": false,
+            "Leader": "Sabrina",
+            "Bonus": 70
+        },
+        "Volcano": {
+            "Acquired": false,
+            "Leader": "Blaine",
+            "Bonus": "Special"
+        },
+        "Earth": {
+            "Acquired": false,
+            "Leader": "Giovanni",
+            "Bonus": 100
+        }
+    }
+}

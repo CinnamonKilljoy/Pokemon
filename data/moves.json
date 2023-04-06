@@ -1,0 +1,140 @@
+{
+    "Tackle":            {
+        "Accuracy": 100,
+        "Power":    35,
+        "Type":     "Normal",
+        "PP":       40
+    },
+    "Growl":             {
+        "Accuracy": 100,
+        "Power":    0,
+        "Type":     "Normal",
+        "PP":       40
+    },
+    "Leech Seed":        {
+        "Accuracy": 90,
+        "Power":    0,
+        "Type":     "Grass",
+        "PP":       10
+    },
+    "Vine Whip":        {
+        "Accuracy": 100,
+        "Power":    45,
+        "Type":     "Grass",
+        "PP":       25
+    },
+    "Poison Powder":    {
+        "Accuracy": 75,
+        "Power":    0,
+        "Type":     "Poison",
+        "PP":       35
+    },
+    "Razor Leaf":       {
+        "Accuracy": 100,
+        "Power":    55,
+        "Type":     "Grass",
+        "PP":       25
+    },
+    "Growth":           {
+        "Accuracy": 0,
+        "Power":    0,
+        "Type":     "Normal",
+        "PP":       20
+    },
+    "Sleep Powder":     {
+        "Accuracy": 75,
+        "Power":    0,
+        "Type":     "Grass",
+        "PP":       15
+    },
+    "Solar Beam":       {
+        "Accuracy": 100,
+        "Power":    120,
+        "Type":     "Grass",
+        "PP":       10
+    },
+    "Tail Whip":         {
+        "Accuracy": 100,
+        "Power":    0,
+        "Type":     "Normal",
+        "PP":       30
+    },
+    "Bubble":            {
+        "Accuracy": 100,
+        "Power":    20,
+        "Type":     "Water",
+        "PP":       30
+    },
+    "Water Gun":        {
+        "Accuracy": 100,
+        "Power":    40,
+        "Type":     "Water",
+        "PP":       25
+    },
+    "Bite":             {
+        "Accuracy": 100,
+        "Power":    60,
+        "Type":     "Normal",
+        "PP":       25
+    },
+    "Withdraw":         {
+        "Accuracy": 0,
+        "Power":    0,
+        "Type":     "Water",
+        "PP":       40
+    },
+    "Skull Bash":       {
+        "Accuracy": 100,
+        "Power":    130,
+        "Type":     "Normal",
+        "PP":       10
+    },
+    "Hydro Pump":       {
+        "Accuracy": 80,
+        "Power":    110,
+        "Type":     "Water",
+        "PP":       5
+    },
+    "Scratch":           {
+        "Accuracy": 100,
+        "Power":    40,
+        "Type":     "Normal",
+        "PP":       35
+    },
+    "Ember":             {
+        "Accuracy": 100,
+        "Power":    40,
+        "Type":     "Fire",
+        "PP":       25
+    },
+    "Leer":             {
+        "Accuracy": 100,
+        "Power":    0,
+        "Type":     "Normal",
+        "PP":       30
+    },
+    "Rage":             {
+        "Accuracy": 100,
+        "Power":    20,
+        "Type":     "Normal",
+        "PP":       20
+    },
+    "Slash":            {
+        "Accuracy": 100,
+        "Power":    70,
+        "Type":     "Normal",
+        "PP":       20
+    },
+    "Flamethrower":     {
+        "Accuracy": 100,
+        "Power":    90,
+        "Type":     "Fire",
+        "PP":       15
+    },
+    "Fire Spin":        {
+        "Accuracy": 85,
+        "Power":    35,
+        "Type":     "Fire",
+        "PP":       15
+    }
+}

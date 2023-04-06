@@ -1,0 +1,68 @@
+{
+    "Bulbasaur": {
+        "Id": 1,
+        "Types": ["Grass", "Poison"],
+        "BaseStats": {
+            "Health":  45,
+            "Attack":  49,
+            "Defense": 49,
+            "Speed":   45,
+            "Special": 65
+        },
+        "MoveList": {
+            "Tackle":            1,
+            "Growl":             1,
+            "Leech Seed":        7,
+            "Vine Whip":        13,
+            "Poison Powder":    20,
+            "Razor Leaf":       27,
+            "Growth":           34,
+            "Sleep Powder":     41,
+            "Solar Beam":       48
+        }
+    },
+
+    "Charmander": {
+        "Id": 4,
+        "Types": ["Fire"],
+        "BaseStats": {
+            "Health":  39,
+            "Attack":  52,
+            "Defense": 43,
+            "Speed":   65,
+            "Special": 50
+        },
+        "MoveList": {
+            "Scratch":           1,
+            "Growl":             1,
+            "Ember":             9,
+            "Leer":             15,
+            "Rage":             22,
+            "Slash":            30,
+            "Flamethrower":     38,
+            "Fire Spin":        46
+        }
+    },
+
+    "Squirtle": {
+        "Id": 7,
+        "Types": ["Water"],
+        "BaseStats": {
+            "Health":  0,
+            "Attack":  0,
+            "Defense": 0,
+            "Speed":   0,
+            "Special": 0
+        },
+        "MoveList": {
+            "Tackle":            1,
+            "Tail Whip":         1,
+            "Bubble":            8,
+            "Water Gun":        15,
+            "Bite":             22,
+            "Withdraw":         28,
+            "Skull Bash":       35,
+            "Hydro Pump":       42
+        }
+    }
+}

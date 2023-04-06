@@ -1,0 +1,82 @@
+{
+    "None": {
+        "Immunity":   [],
+        "Resistance": [],
+        "Weakness":   []
+    },
+    "Bug": {
+        "Immunity":   [],
+        "Resistance": ["Fighting", "Grass", "Ground"],
+        "Weakness":   ["Fire", "Flying", "Rock"]
+    },
+    "Dragon": {
+        "Immunity":   [],
+        "Resistance": ["Electric", "Fire", "Grass", "Water"],
+        "Weakness":   ["Dragon", "Ice"]
+    },
+    "Electric": {
+        "Immunity":   [],
+        "Resistance": ["Electric", "Flying"],
+        "Weakness":   ["Ground"]
+    },
+    "Fighting": {
+        "Immunity":   [],
+        "Resistance": ["Bug", "Rock"],
+        "Weakness":   ["Flying", "Psychic"]
+    },
+    "Fire": {
+        "Immunity":   [],
+        "Resistance": ["Bug", "Fire", "Grass", "Ice"],
+        "Weakness":   ["Ground", "Rock", "Water"]
+    },
+    "Flying": {
+        "Immunity":   ["Ground"],
+        "Resistance": ["Bug", "Fighting", "Grass"],
+        "Weakness":   ["Electric", "Ice", "Rock"]
+    },
+    "Ghost": {
+        "Immunity":   ["Fighting", "Normal"],
+        "Resistance": ["Bug", "Poison"],
+        "Weakness":   ["Ghost"]
+    },
+    "Grass": {
+        "Immunity":   [],
+        "Resistance": ["Electric", "Grass", "Ground", "Water"],
+        "Weakness":   ["Bug", "Fire", "Flying", "Ice", "Poison"]
+    },
+    "Ground": {
+        "Immunity":   ["Electric"],
+        "Resistance": ["Poison", "Rock"],
+        "Weakness":   ["Grass", "Ice", "Water"]
+    },
+    "Ice": {
+        "Immunity":   [],
+        "Resistance": ["Ice"],
+        "Weakness":   ["Fighting", "Fire", "Rock"]
+    },
+    "Normal": {
+        "Immunity":   ["Ghost"],
+        "Resistance": [],
+        "Weakness":   ["Fighting"]
+    },
+    "Poison": {
+        "Immunity":   [],
+        "Resistance": ["Bug", "Fighting", "Grass", "Poison"],
+        "Weakness":   ["Ground", "Psychic"]
+    },
+    "Psychic": {
+        "Immunity":   ["Ghost"],
+        "Resistance": ["Fighting", "Psychic"],
+        "Weakness":   ["Bug"]
+    },
+    "Rock": {
+        "Immunity":   [],
+        "Resistance": ["Fire", "Flying", "Normal", "Poison"],
+        "Weakness":   ["Fighting", "Grass", "Ground", "Water"]
+    },
+    "Water": {
+        "Immunity":   [],
+        "Resistance": ["Bug", "Fire", "Ice", "Water"],
+        "Weakness":   ["Electric", "Grass"]
+    }
+}
